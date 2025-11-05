@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Basic utilities for the inspired clone */
+body { @apply bg-gray-50 text-gray-800 antialiased; }
+.container { max-width: 1100px; }
